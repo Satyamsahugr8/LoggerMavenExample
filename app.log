@@ -1,0 +1,48 @@
+15:57:38.153 [main] INFO  - inside main(): a:[0]
+15:57:38.157 [main] WARN  - warning
+15:57:38.157 [main] ERROR - this is error
+15:59:46.458 [main] INFO  - inside main(): a:[0]
+15:59:46.463 [main] WARN  - warning
+15:59:46.463 [main] ERROR - this is error
+
+
+15:59:46.458 [main] INFO  com.example.MyService 14 - inside main(): a:[0] 
+15:59:46.463 [main] WARN  com.example.MyService 15 - warning 
+15:59:46.463 [main] ERROR com.example.MyService 16 - this is error 
+
+16:03:49.186 [main] INFO  com.example.MyService 14 - inside main(): a:[0] 
+16:03:49.190 [main] WARN  com.example.MyService 15 - warning 
+16:03:49.190 [main] ERROR com.example.MyService 16 - this is error 
+20:06:50.259 [main] INFO  com.example.MyService 14 - inside main(): a:[0] 
+20:06:50.272 [main] WARN  com.example.MyService 15 - warning 
+20:06:50.273 [main] ERROR com.example.MyService 16 - this is error 
+20:14:45.034 [main] INFO  com.example.MyService 14 - inside main(): a:[0] 
+20:14:45.046 [main] WARN  com.example.MyService 15 - warning 
+20:14:45.047 [main] ERROR com.example.MyService 16 - this is error 
+20:16:58.777 [main] INFO  - inside main(): a:[0]
+20:16:58.782 [main] WARN  - warning
+20:16:58.783 [main] ERROR - this is error
+20:17:23.143 main INFO  - inside main(): a:[0]
+20:17:23.151 main WARN  - warning
+20:17:23.152 main ERROR - this is error
+20:17:23.985 main INFO  - inside main(): a:[0]
+20:17:24.002 main WARN  - warning
+20:17:24.003 main ERROR - this is error
+20:17:37.758 main INFO  - inside main(): a:[0]
+20:17:37.769 main WARN  - warning
+20:17:37.770 main ERROR - this is error
+20:20:08.861 main INFO  com.example.MyService (14) - inside main(): a:[0] 
+20:20:08.874 main WARN  com.example.MyService (15) - warning 
+20:20:08.875 main ERROR com.example.MyService (16) - this is error 
+20:20:09.874 main INFO  com.example.MyService (14) - inside main(): a:[0] 
+20:20:09.895 main WARN  com.example.MyService (15) - warning 
+20:20:09.897 main ERROR com.example.MyService (16) - this is error 
+20:20:10.874 main INFO  com.example.MyService (14) - inside main(): a:[0] 
+20:20:10.880 main WARN  com.example.MyService (15) - warning 
+20:20:10.880 main ERROR com.example.MyService (16) - this is error 
+20:20:11.221 main INFO  com.example.MyService (14) - inside main(): a:[0] 
+20:20:11.226 main WARN  com.example.MyService (15) - warning 
+20:20:11.227 main ERROR com.example.MyService (16) - this is error 
+20:20:18.481 main INFO  com.example.MyService (14) - inside main(): a:[0] 
+20:20:18.492 main WARN  com.example.MyService (15) - warning 
+20:20:18.494 main ERROR com.example.MyService (16) - this is error 
