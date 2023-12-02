@@ -46,3 +46,18 @@
 20:20:18.481 main INFO  com.example.MyService (14) - inside main(): a:[0] 
 20:20:18.492 main WARN  com.example.MyService (15) - warning 
 20:20:18.494 main ERROR com.example.MyService (16) - this is error 
+13:11:55.507 main INFO  com.runner.MyService (15) - inside main(): a:[0] 
+13:11:55.519 main WARN  com.runner.MyService (16) - warning 
+13:11:55.519 main ERROR com.runner.MyService (17) - this is error 
+13:14:28.226  INFO  com.runner.MyService main (15) - inside main(): a:[0] 
+13:14:28.235  WARN  com.runner.MyService main (16) - warning 
+13:14:28.236  ERROR com.runner.MyService main (17) - this is error 
+02 Dec 2023 13:16:44.585  INFO  com.runner.MyService main (15) - inside main(): a:[0] 
+02 Dec 2023 13:16:44.592  WARN  com.runner.MyService main (16) - warning 
+02 Dec 2023 13:16:44.592  ERROR com.runner.MyService main (17) - this is error 
+02 Dec 2023 13:27:01.955  INFO  com.runner.MyService main (15) - inside main(): a:[0] 
+02 Dec 2023 13:27:01.961  WARN  com.runner.MyService main (16) - warning 
+02 Dec 2023 13:27:01.961  ERROR com.runner.MyService main (17) - this is error 
+02 Dec 2023 13:54:58.284  INFO  com.runner.MyService main (14) - inside main(): a:[0] 
+02 Dec 2023 13:54:58.290  WARN  com.runner.MyService main (15) - warning 
+02 Dec 2023 13:54:58.290  ERROR com.runner.MyService main (16) - this is error 

@@ -3,13 +3,13 @@
 	<Appenders>
 		
 		<Console name="Console" target="SYSTEM_OUT">
-			<PatternLayout pattern="%d{HH:mm:ss.SSS} %t %-5level %logger{36} (%L) - %msg %n" />
+			<PatternLayout pattern="%d{dd MMM yyyy HH:mm:ss.SSS}  %-5level %logger{36} %t (%L) - %msg %n" />
 		</Console>
 		
 		<File name="File" fileName="app.log" append="true">
            <PatternLayout> 
            <!--    <Pattern>%d{HH:mm:ss.SSS} %t %-5level - %msg%n</Pattern> -->
-            <Pattern> %d{HH:mm:ss.SSS} %t %-5level %logger{36} (%L) - %msg %n </Pattern>
+            <Pattern> %d{dd MMM yyyy HH:mm:ss.SSS}  %-5level %logger{36} %t (%L) - %msg %n </Pattern>
            </PatternLayout>  
         </File>
         
